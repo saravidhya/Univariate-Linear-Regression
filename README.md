@@ -46,8 +46,21 @@ plt.plot(x,ypred, color="Blue")
 plt.show()
 ```
 ## Output:
+
+
 <img width="266" alt="image" src="https://github.com/saravidhya/Univariate-Linear-Regression/assets/87062069/1b73307b-1227-47ad-a062-28c5df9f3f8b">
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2024-01-02 152504](https://github.com/priyadharshini210/Univariate-Linear-Regression/assets/148514638/4cb02ef5-2903-460c-8b91-3a89981b035f)
+
 ![Screenshot 2024-01-02 152516](https://github.com/priyadharshini210/Univariate-Linear-Regression/assets/148514638/60e2b93c-2ccd-4f7d-962a-f0221592e6e3)
 </br>
 </br>
