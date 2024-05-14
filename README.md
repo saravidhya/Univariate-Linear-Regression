@@ -48,14 +48,10 @@ plt.show()
 ## Output:
 
 
-<img width="266" alt="image" src="https://github.com/saravidhya/Univariate-Linear-Regression/assets/87062069/1b73307b-1227-47ad-a062-28c5df9f3f8b">
 
 
 
-
-
-
-
+<img width="435" alt="image" src="https://github.com/saravidhya/Univariate-Linear-Regression/assets/87062069/f2a21b65-eb6f-4f23-9e9e-b176526ed351">
 
 
 
